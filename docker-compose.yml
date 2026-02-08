@@ -2,4 +2,4 @@ services:
   game:
     build: .
     ports:
-      - "7070:80"
+      - "0.0.0.0:7070:80"
