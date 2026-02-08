@@ -33,7 +33,7 @@ Open `index.html` in your browser or visit the GitHub Pages site.
 docker compose up --build
 ```
 
-Then open http://localhost:8080
+Then open http://localhost:7070
 
 ## Tech
 
