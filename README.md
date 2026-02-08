@@ -27,6 +27,14 @@ Open `index.html` in your browser or visit the GitHub Pages site.
 - **Mouse/Touch**: Click on tiles to move them
 - **Keyboard**: Use arrow keys to slide tiles
 
+## Run with Docker
+
+```bash
+docker compose up --build
+```
+
+Then open http://localhost:8080
+
 ## Tech
 
 Pure HTML, CSS, and JavaScript. No dependencies. Just open and play!
